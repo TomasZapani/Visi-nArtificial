@@ -8,3 +8,4 @@ Este proyecto usa Python y OpenCV para detectar rostros con la cámara web. Si s
 - ESP32 (o Arduino)
 - LED + resistencia
 - Arduino IDE para cargar el código
+![Texto alternativo](AA164C6B-A275-4554-9FBC-49D2EF22E4F7.jpeg)
